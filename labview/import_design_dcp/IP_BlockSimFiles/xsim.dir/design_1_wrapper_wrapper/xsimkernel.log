@@ -1,0 +1,7 @@
+Running: xsim.dir/design_1_wrapper_wrapper/xsimk86037A490FB44193A3CBFEAF704776A0.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 481764 KB (Peak: 481764 KB)
+Design Loading CPU Usage: 49515 ms
+Simulation completed
+Simulation Memory Usage: 481764 KB (Peak: 481764 KB)
+Simulation CPU Usage: 49608 ms
